@@ -1,1 +1,0 @@
-# Sequential_Detector_1011
